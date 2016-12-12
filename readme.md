@@ -1,5 +1,3 @@
-# JavaScript30
-
-Starter Files + Completed solutions for the JavaScript 30 Day Challenge. 
-
-(it's not up yet - soon though!)
+# test
+First repository
+Student Web Developer going through all the requirements to be a good web developer.
